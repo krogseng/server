@@ -52,16 +52,16 @@ Color {
   4. DELETE
   5. PUT
   
-  1. `/` (Initial Home Page)
-    * `/signup` (Signup)
-    * `/signin` (Signin)
-    * `/allUsers` (Get all users)
+ 1. `/` (Initial Home Page)
+   * `/signup` (Signup)
+   * `/signin` (Signin)
+   * `/allUsers` (Get all users)
 
-  2. `/user/:id` (User Dashboard/Homepage)
-    * `/user/:id/comments` (User comments)
-    * `/user/:id/week` (User colors by week)
-    * `/user/:id/month` (User colors by month)
-    * `/user/:id/colors` (Get all colors)
+ 2. `/user/:id` (User Dashboard/Homepage)
+   * `/user/:id/comments` (User comments)
+   * `/user/:id/week` (User colors by week)
+   * `/user/:id/month` (User colors by month)
+   * `/user/:id/colors` (Get all colors)
 
   3. Possibly filter by location or weather 
 
