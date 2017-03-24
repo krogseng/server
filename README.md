@@ -4,10 +4,10 @@
 
 1. User
 2. Date
-  * Specific period (time of day)
-  * Color/Emotion
-  * Comment, image
-  * Possibly weather and location
+   * Specific period (time of day)
+   * Color/Emotion
+   * Comment, image
+   * Possibly weather and location
 
 ```javascript
 User {
@@ -79,3 +79,10 @@ Color {
 - Body-parser
 - Other Node packages I'm forgetting (eslint)
 - Testing: Mocha, Chai, Superagent
+
+### API Research
+
+1. Location
+2. Weather
+3. Calender
+
