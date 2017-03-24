@@ -2,8 +2,8 @@
 
 ### Models
 
-1. User
-2. Date
+1. #### User
+2. #### Date
    * Specific period (time of day)
    * Color/Emotion
    * Comment, image
@@ -33,7 +33,7 @@ Color {
 
 ### Routes
 
-- Authorization/Authentication (Signup/Signin)
+- #### Authorization/Authentication (Signup/Signin)
   
   * Signin
   * Signup
@@ -44,7 +44,7 @@ Color {
   * Middleware
   * ensureAuth and ensureRole
 
-- REST data endpoints / CRUD operations
+- #### REST data endpoints / CRUD operations
   
     * GET
     * GET ALL
@@ -52,18 +52,18 @@ Color {
     * DELETE
     * PUT
   
- 1. #### Initial Home Page: `/` 
+ 1. ##### Initial Home Page: `/` 
     * Signup: `/signup` 
     * Signin: `/signin` 
     * GET all users: `/allUsers` 
 
- 2. #### User Home Page/Dashboard: `/user/:id`
+ 2. ##### User Home Page/Dashboard: `/user/:id`
     * User comments: `/user/:id/comments` 
     * User colors by week: `/user/:id/week` 
     * User colors by month: `/user/:id/month` 
     * Get all colors: `/user/:id/colors` 
 
-  3. Possibly filter by location or weather 
+  3. ##### Possibly filter by location or weather 
 
 ### Connection and Server
 
