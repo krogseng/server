@@ -2,8 +2,8 @@
 
 ### Models
 
-1. #### User
-2. #### Date
+1. User
+2. Date
    * Specific period (time of day)
    * Color/Emotion
    * Comment, image
