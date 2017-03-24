@@ -46,11 +46,11 @@ Color {
 
 - REST data endpoints / CRUD operations
   
-  1. GET
-  2. GET ALL
-  3. POST
-  4. DELETE
-  5. PUT
+    * GET
+    * GET ALL
+    * POST
+    * DELETE
+    * PUT
   
  1. `/` (Initial Home Page)
     * Signup: `/signup` 
@@ -82,7 +82,7 @@ Color {
 
 ### API Research
 
-1. Location
-2. Weather
-3. Calender
+- Location
+- Weather
+- Calender
 
