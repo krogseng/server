@@ -52,12 +52,12 @@ Color {
     * DELETE
     * PUT
   
- 1. ##### Initial Home Page: `/` 
+ 1. Initial Home Page: `/` 
     * Signup: `/signup` 
     * Signin: `/signin` 
     * GET all users: `/allUsers` 
 
- 2. ##### User Home Page/Dashboard: `/user/:id`
+ 2. User Home Page/Dashboard: `/user/:id`
     * User comments: `/user/:id/comments` 
     * User colors by week: `/user/:id/week` 
     * User colors by month: `/user/:id/month` 
