@@ -53,15 +53,15 @@ Color {
   5. PUT
   
  1. `/` (Initial Home Page)
-   * `/signup` (Signup)
-   * `/signin` (Signin)
-   * `/allUsers` (Get all users)
+    * Signup: `/signup` 
+    * Signin: `/signin` 
+    * GET all users: `/allUsers` 
 
  2. `/user/:id` (User Dashboard/Homepage)
-   * `/user/:id/comments` (User comments)
-   * `/user/:id/week` (User colors by week)
-   * `/user/:id/month` (User colors by month)
-   * `/user/:id/colors` (Get all colors)
+    * User comments: `/user/:id/comments` 
+    * User colors by week: `/user/:id/week` 
+    * User colors by month: `/user/:id/month` 
+    * Get all colors: `/user/:id/colors` 
 
   3. Possibly filter by location or weather 
 
