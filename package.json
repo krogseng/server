@@ -34,6 +34,7 @@
     "express": "^4.15.2",
     "jsonwebtoken-promisified": "^1.0.3",
     "mongoose": "^4.9.1",
+    "mongoose-validators": "^0.1.0",
     "morgan": "^1.8.1"
   }
 }
