@@ -70,5 +70,11 @@
     "hexColor": "#F4C9C9",
     "mood": "anxious",
     "path": "/assets/red3.svg"
+  },
+  {
+    "index": 12,
+    "hexColor": "#F2F2F2",
+    "mood": "default",
+    "path": "/assets/gray.svg"    
   }
 ]
