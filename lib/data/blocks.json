@@ -1,0 +1,39 @@
+[
+  {
+    "blockNumber": 0,
+    "timeFrame": "early morning"
+  },
+  {
+    "blockNumber": 1,
+    "timeFrame": "mid morning"
+  },
+  {
+    "blockNumber": 2,
+    "timeFrame": "late morning"
+  },
+  {
+    "blockNumber": 3,
+    "timeFrame": "early afternoon"
+  },
+  {
+    "blockNumber": 4,
+    "timeFrame": "mid afternoon"
+  },
+  {
+    "blockNumber": 5,
+    "timeFrame": "late afternoon"
+  }
+  ,
+  {
+    "blockNumber": 6,
+    "timeFrame": "early evening"
+  },
+  {
+    "blockNumber": 7,
+    "timeFrame": "mid evening"
+  },
+  {
+    "blockNumber": 8,
+    "timeFrame": "late evening"
+  }
+]
