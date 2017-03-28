@@ -1,10 +1,10 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 const assert = require('chai').assert;
-const User = require('../lib/models/user-schema');
-const Mood = require('../lib/models/mood-schema');
-const Color = require('../lib/models/color-schema');
-const Block = require('../lib/models/block-schema');
+const User = require('../lib/models/user');
+const Mood = require('../lib/models/mood');
+const Color = require('../lib/models/color');
+const Block = require('../lib/models/block');
 
 
 describe('saves new user, color, and block number so we can test and populate the mood schema', () => {
