@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // const mongoose = require('mongoose');
 // const Schema = mongoose.Schema;
 // const assert = require('chai').assert;
@@ -8,6 +9,7 @@
 // const weatherApi = require('../lib/routes/weather-api');
 // const apiKey = process.env.WEATHER_API_KEY;
 // const requestProxy = require('request-promise');
+
 
 // let moodOne;
 
