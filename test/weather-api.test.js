@@ -5,10 +5,10 @@ chai.use(chaiHttp);
 const assert = chai.assert;
 const app = require('../lib/app');
 const token = require('../lib/auth/token');
-const User = require('../lib/models/user-schema');
-const Mood = require('../lib/models/mood-schema');
-const Color = require('../lib/models/color-schema');
-const Block = require('../lib/models/block-schema');
+const User = require('../lib/models/user');
+const Mood = require('../lib/models/mood');
+const Color = require('../lib/models/color');
+const Block = require('../lib/models/block');
 const Token = require('../lib/auth/token');
 
 process.env.DB_URL = 'mongodb://localhost:27017/colordiary-test';
